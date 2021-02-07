@@ -172,7 +172,7 @@
             return [0.1 * Math.random() + 0.01, -(0.1 * Math.random() + 0.01)];
         };
         var getKey = function(item){
-            return item.name + '-' + item.phone;
+            return item.phone + '-' + item.name;
         };
         var createHTML = function(){
             var html = [ '<ul>' ];
@@ -203,7 +203,7 @@
                 })
                 .slice(0, count)
                 .map(function(m){
-                  choosed[getKey(m)] = 1;
+                  choosed[getKey(m)] = Object.getOwnPropertyNames(choosed).length+1;
                   list[m.index].style.color = color;
                   return m.name + '<br/>' + m.phone; 
                 });
