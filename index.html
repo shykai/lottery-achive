@@ -205,7 +205,7 @@
                 .map(function(m){
                   choosed[getKey(m)] = Object.getOwnPropertyNames(choosed).length+1;
                   list[m.index].style.color = color;
-                  return m.name + '<br/>' + m.phone; 
+                  return m.phone+m.name.replace(':', '<br/><br/>'); 
                 });
             localStorage.setItem('choosed', JSON.stringify(choosed));
             return ret;
