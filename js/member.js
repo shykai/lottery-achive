@@ -23,7 +23,7 @@ var member = [
 {"phone": "No.22:", "name": "微信红包8块8"},
 {"phone": "No.23:", "name": "金士顿ddr4（16g）"},
 {"phone": "No.24:", "name": "峨眉山任意温泉会所家庭桶"},
-{"phone": "No.25:", "name": "还没想好"},
+{"phone": "No.25:", "name": "季卡一张"},
 {"phone": "No.26:", "name": "开荒套餐或廖师傅红红照片两张(可美颜)"},
 {"phone": "No.27:", "name": "暖雪or闪客461T，自选"},
 {"phone": "No.28:", "name": "呼伦贝尔牛肉干一斤 顺丰邮"},
