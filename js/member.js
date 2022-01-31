@@ -31,5 +31,6 @@ var member = [
 {"phone": "No.30:", "name": "手游手柄"},
 {"phone": "No.31:", "name": "季卡一张"},
 {"phone": "No.32:", "name": "150以下游戏任选"},
+{"phone": "No.33:", "name": "268以下游戏任选"},
 
 ]
