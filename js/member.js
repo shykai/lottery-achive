@@ -19,7 +19,8 @@ var member = [
 {"phone": "No.18:", "name": "2022宝瓶二一套（CK除外）"},
 {"phone": "No.19:", "name": "大表哥2:Ultimate Edition / 地平线 5 标准版 / 台服月卡"},
 {"phone": "No.20:", "name": "月卡折现红包，替我去艾泽拉斯驰骋吧"},
-{"phone": "No.21:", "name": "台服月卡+加速器一个月，不可折现"},
+{"phone": "No.21:", "name": "福临门小样套盒"},
 {"phone": "No.22:", "name": "5斤葡萄干或150r折现"},
+{"phone": "No.23:", "name": "半年卡一张"},
 
 ]
