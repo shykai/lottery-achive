@@ -11,11 +11,12 @@ var member = [
 {"phone": "No.10:", "name": "硬核三件套（戴森球+缺氧+取景器）"},
 {"phone": "No.11:", "name": "国服两张月卡或台服两张月卡"},
 {"phone": "No.12:", "name": "瑞格尔B1家庭投影仪"},
-{"phone": "No.13:", "name": "去年gwp还在"},
+{"phone": "No.13:", "name": "300左右游戏耳机"},
 {"phone": "No.14:", "name": "正宗重庆老火锅自炒火锅底料4斤"},
 {"phone": "No.15:", "name": "京东/淘宝价值1000内桌搭配件任选"},
 {"phone": "No.16:", "name": "碧蓝幻想relink/steam游戏合计200内"},
 {"phone": "No.17:", "name": "steam200内游戏自选"},
 {"phone": "No.18:", "name": "steam200内游戏自选"},
 {"phone": "No.19:", "name": "dota2饰品宝瓶 or steam300内游戏自选 or 小吃特产大礼包（本人自选觉得好吃的）"},
+{"phone": "No.20:", "name": "p5r"},
 ]
